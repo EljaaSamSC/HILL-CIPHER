@@ -122,7 +122,7 @@ int main() {
 ~~~
 ## OUTPUT
 
-<img width="453" height="270" alt="image" src="https://github.com/user-attachments/assets/68d449a2-150b-4df5-9687-87c2e90bd47d" />
+<img width="433" height="292" alt="image" src="https://github.com/user-attachments/assets/9c9f9719-2f1b-4a28-9b51-6e9e90c26dbf" />
 
 ## RESULT
  Thus,to implement the hill cipher substitution techniques succesfully implemented.
